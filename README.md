@@ -16,10 +16,11 @@ Stats basics in R
 | 7   | [GLM]              | Generalized Linear Modelling and Logistic Regression in R    |
 
 
-[Plotting]: ./S0%20-%20Plotting.ipynb
-[Melanoma]: ./S1%20-%20Melanoma.ipynb
-[Inference]: ./S3%20-%20Inference.ipynb
-[Significance]: ./S4%20-%20Significance.ipynb
-[Significance2]: ./S5%20-%20Significance%202.ipynb
-[LinearRegression]: ./S6%20-%20Linear%20Regression.ipynb
-[GLM]: ./S7%20-%20GLM.ipynb
+[Plotting]: ./0%20-%20Plotting.ipynb
+[Melanoma]: ./01%20-%20Melanoma.ipynb
+[Inference]: ./03%20-%20Inference.ipynb
+[Significance]: ./04%20-%20Significance.ipynb
+[Significance2]: ./05%20-%20Significance%202.ipynb
+[LinearRegression]: ./06%20-%20Linear%20Regression.ipynb
+[GLM]: ./07%20-%20GLM.ipynb
+[Mixed]: ./08%20-%20Mixed%20Effect%20Models.ipynb
